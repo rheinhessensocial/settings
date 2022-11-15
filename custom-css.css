@@ -1,0 +1,8 @@
+/*Dark Theme: link-color WCAG-compliant*/
+body.theme-default .status__content a, body.theme-default .status__content a.unhandled-link {
+  color: #6bc1ff!important;
+}
+/*Light Theme: link-color WCAG-compliant*/
+body.theme-mastodon-light .status__content a, body.theme-mastodon-light .status__content a.unhandled-link {
+  color: #005c8a!important;
+}
