@@ -13,9 +13,11 @@ Blocked instances
 
 | Instance                    | Status¹ | Reason                                 |
 | --------------------------- | -- | ------------------------------------------- |
+| aethy.com                   | ⛔ | Lolicon |
 | bae.st                      | ⛔ | Discrimination, racism, "free speech zone"² |
 | baraag.net                  | ⛔ | Lolicon |
 | beefyboys.club              | ⛔ | Discrimination, racism, "free speech zone"² |
+| beefyboys.win               | ⛔ | Discrimination, racism, "free speech zone"² |
 | beta.birdsite.live          | ⛔ | Twitter crossposter|
 | birb.elfenban.de            | ⛔ | Twitter crossposter|
 | bird.evilcyberhacker.net    | ⛔ | Twitter crossposter|
@@ -23,23 +25,30 @@ Blocked instances
 | bird.nzbr.de                | ⛔ | Twitter crossposter|
 | birdbots.leptonics.com      | ⛔ | Twitter crossposter|
 | birdsite.b93.dece.space     | ⛔ | Twitter crossposter|
+| birdsite.frog.fashion       | ⛔ | Twitter crossposter|
 | birdsite.link               | ⛔ | Twitter crossposter|
 | birdsite.monster            | ⛔ | Twitter crossposter|
 | birdsite.slashdev.space     | ⛔ | Twitter crossposter|
 | birdsitelive.treffler.cloud | ⛔ | Twitter crossposter|
 | birdsite.thorlaksson.com    | ⛔ | Twitter crossposter|
 | birdsite.wilde.cloud        | ⛔ | Twitter crossposter|
+| birdsitelive.ffvo.dev       | ⛔ | Twitter crossposter|
 | bridge.birb.space           | ⛔ | Twitter crossposter|
 | brighteon.social            | ⛔ | "free speech zone"² |
 | cawfee.club                 | ⛔ | Discrimination, racism, "free speech zone"² |
 | chudbuds.lol                | ⛔ | Discrimination, racism, "free speech zone"² |
 | club.darknight-coffee.eu    | ⛔ | "free speech zone"² |
+| clubcyberia.co              | ⛔ | Homophobia |
 | comfyboy.club               | ⛔ | Discrimination, racism |
+| cum.salon                   | ⛔ | Misogynic, pedophilia |
 | daishouri.moe               | ⛔ | Fascism, openly advertises with swastika    |
 | detroitriotcity.com         | ⛔ | Discrimination, racism, "free speech zone"² |
+| eientei.org                 | ⛔ | Racism, antisemitism |
+| eveningzoo.club             | ⛔ | Discrimination, racism, "free speech zone"² |
 | freeatlantis.com            | ⛔ | Conspiracy theory instance |
 | freefedifollowers.ga        | ⛔ | Follower spam |
 | frennet.link                | ⛔ | Discrimination, racism, "free speech zone"² |
+| freecumextremist.com        | ⛔ | Discrimination, racism, "free speech zone"² |
 | freespeechextremist.com     | ⛔ | Discrimination, racism, "free speech zone"² |
 | f.haeder.net                | ⛔ | Discrimination |
 | gab.com, gab.ai             | ⛔ | Discrimination, racism, "free speech zone"² |
@@ -56,7 +65,8 @@ Blocked instances
 | kiwifarms.cc                | ⛔ | Discrimination |
 | libre.tube                  | ⛔ | Promotion of violence and murder, multiple other violations of our rules |
 | lolicon.rocks               | ⛔ | Lolicon |
-| mastodon.network            | ⛔ | Imperaonation linking to porn |
+| lolison.top                 | ⛔ | Lolicon, paedophilia |
+| mastodon.network            | ⛔ | Impersonation linking to porn |
 | mastodon.popps.org          | ⛔ | Homophobia |
 | meta-tube.de                | ⛔ | Conspiracy, CoVid19 denier videos https://fediblock.org/blocklist/#meta-tube.de |
 | midnightride.rs             | ⛔ | Discrimination |
@@ -79,12 +89,20 @@ Blocked instances
 | pl.tkammer.de               | ⛔ | Transphobia |
 | poa.st                      | ⛔ | Discrimination |
 | poster.place                | ⛔ | Discrimination, racism, "free speech zone"² |
+| rapemeat.solutions          | ⛔ | Lolicon, and the domain name says enough |
+| rdrama.cc                   | ⛔ | Discrimination, "free speech zone"² |
+| ryona.agency                | ⛔ | Alt-right trolls |
+| seal.cafe                   | ⛔ | Discrimination, racism, "free speech zone"² |
+| shitpost.cloud              | ⛔ | "Free speech zone"² |
 | shitposter.club             | ⛔ | "Free speech zone"² |
+| shota.house                 | ⛔ | Lolicon |
 | sinblr.com                  | 🔇 | Massive amount of untagged NSFW content |
 | skippers-bin.com            | ⛔ | Same admin as neckbeard.xyz, same behaviour |
 | sneak.berlin                | ⛔ | privacy violation |
+| sneed.social                | ⛔ | Discrimination, racism, "free speech zone"² |
 | social.urspringer.de        | ⛔ | Conspiracy, CoVid19 denier |
 | social.ancreport.com        | ⛔ | Discrimination, racism, "free speech zone"² |
+| social.teci.world           | ⛔ | Discrimination, racism, "free speech zone"² |
 | socnet.supes.com            | ⛔ | Right wing "free speech zone"² |
 | solagg.com                  | ⛔ | Scammers |
 | spinster.xyz                | ⛔ | Discrimination |
@@ -95,6 +113,7 @@ Blocked instances
 | tube.querdenken-711.de      | ⛔ | Conspiracy videos |
 | twitter.activitypub.actor   | ⛔ | Twitter crossposting bots breaking mentions|
 | twitterbridge.jannis.rocks  | ⛔ | Twitter crossposting bots breaking mentions|
+| tweetbridge.kogasa.de       | ⛔ | Twitter crossposting bots breaking mentions|
 | twtr.plus                   | ⛔ | Twitter crossposting bots breaking mentions| 
 | varishangout.net            | ⛔ | Transphobia, aggressive trolling |
 | wiki-tube.de                | ⛔ | Right wing conspiracy videos |
