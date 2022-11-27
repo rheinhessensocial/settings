@@ -25,11 +25,16 @@ Blocked instances
 | bird.nzbr.de                | ⛔ | Twitter crossposter|
 | birdbots.leptonics.com      | ⛔ | Twitter crossposter|
 | birdsite.b93.dece.space     | ⛔ | Twitter crossposter|
+| birdsite.blazelights.dev    | ⛔ | Twitter crossposter|
 | birdsite.frog.fashion       | ⛔ | Twitter crossposter|
+| birdsite.gabeappleton.me    | ⛔ | Twitter crossposter|
+| birdsite.james.moody.name   | ⛔ | Twitter crossposter|
+| birdsite.lakedrops.com      | ⛔ | Twitter crossposter|
 | birdsite.link               | ⛔ | Twitter crossposter|
 | birdsite.monster            | ⛔ | Twitter crossposter|
 | birdsite.slashdev.space     | ⛔ | Twitter crossposter|
 | birdsitelive.treffler.cloud | ⛔ | Twitter crossposter|
+| birdsite.tcjc.uk            | ⛔ | Twitter crossposter|
 | birdsite.thorlaksson.com    | ⛔ | Twitter crossposter|
 | birdsite.wilde.cloud        | ⛔ | Twitter crossposter|
 | birdsitelive.ffvo.dev       | ⛔ | Twitter crossposter|
@@ -54,6 +59,7 @@ Blocked instances
 | gab.com, gab.ai             | ⛔ | Discrimination, racism, "free speech zone"² |
 | gameliberty.club            | ⛔ | "free speech zone"² |
 | gegenstimme.tv              | ⛔ | "free speech zone"² |
+| genderheretics.xyz          | ⛔ | Tagline "Now With 41% More Misgendering!" |
 | gitmo.life                  | ⛔ | "free speech zone"² |
 | glindr.org                  | ⛔ | Discrimination |
 | glowers.club                | ⛔ | Discrimination, racism, "free speech zone"² |
@@ -76,7 +82,7 @@ Blocked instances
 | newjack.city                | ⛔ | Exclusive to unwanted follow bots |
 | noagendasocial.com          | ⛔ | "free speech zone"², harassment |
 | ohai.su                     | ⛔ | Offline |
-| pawoo.net                   | ⛔ | Untagged nfsw content, unwanted follow bots, lolicon\*\*\* |
+| pawoo.net                   | ⛔ | Untagged nfsw content, unwanted follow bots, lolicon |
 | paypig.org                  | ⛔ | Racism |
 | pieville.net                | ⛔ | Racism, antisemitism |
 | play.xmr.101010.pl          | ⛔ | Cryptomining |
@@ -95,6 +101,7 @@ Blocked instances
 | seal.cafe                   | ⛔ | Discrimination, racism, "free speech zone"² |
 | shitpost.cloud              | ⛔ | "Free speech zone"² |
 | shitposter.club             | ⛔ | "Free speech zone"² |
+| shortstackran.ch            | ⛔ | Racism, homophobia, "free speech zone"² |
 | shota.house                 | ⛔ | Lolicon |
 | sinblr.com                  | 🔇 | Massive amount of untagged NSFW content |
 | skippers-bin.com            | ⛔ | Same admin as neckbeard.xyz, same behaviour |
