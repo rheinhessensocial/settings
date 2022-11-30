@@ -8,6 +8,44 @@ The purpose of this list is to be transparent towards our users, and to collabor
 those instances that violate the Code of Conduct, or those that tend to contain bad actors, and who boost unwanted
 content into other instances. Instances that don't exist anymore are removed periodically.
 
+Notes about when we block an instance
+-------
+
+Every instance blocked before 2022-11-11 was blocked based on the list of instances blockes by chaos.social. We checked some of the instances (but not all of them), and decided to trust this list.
+
+Since 2022-11-11 we check every instance before blocking in the following way (we still use new entries of the chaos.social-blocklist, but also other sources):
+
+1. Does the instance have a public timeline or profile list, so we can see some content posted on this instance?
+
+No? -> Continue with Step 4
+
+Yes -> Continue with Step 2
+
+2. Is there any sign, that the instance has even a few basic rules (e.g.: it is not allowed to harass people, it is not allowed to publish NS-Propaganda, unconsensual pictures, illegal content, ...)?
+
+No? -> We have to assume, that there is a good reason to block this instance
+
+Yes -> Continue with Step 3
+
+3. Do we find problematic content by reading for 1 or 2 minutes of the public timeline (or looking at some profiles in the profile list)?
+
+No? -> We do not block this instance
+
+Yes -> Welcome to the blocklist
+
+4. From where comes the information, that it could be useful to block this instance?
+
+new entry of the list of blocked instances of chaos.social -> We do trust them to have a good reason to block this instance, since we can not check this ourselves we also block this.
+
+one report by one of our users -> maybe blocking the account on the other instance, but not the complete instance.
+
+multiple reports by our users -> Welcome to the blocklist
+
+trusted/known account -> Welcome to the blocklist
+
+untrusted account -> ignoring
+
+
 Blocked instances
 -------
 
@@ -32,12 +70,15 @@ Blocked instances
 | birdsite.lakedrops.com      | ⛔ | Twitter crossposter|
 | birdsite.link               | ⛔ | Twitter crossposter|
 | birdsite.monster            | ⛔ | Twitter crossposter|
+| birdsite.oliviaappleton.com | ⛔ | Twitter crossposter|
 | birdsite.slashdev.space     | ⛔ | Twitter crossposter|
 | birdsitelive.treffler.cloud | ⛔ | Twitter crossposter|
 | birdsite.tcjc.uk            | ⛔ | Twitter crossposter|
 | birdsite.thorlaksson.com    | ⛔ | Twitter crossposter|
+| birdsite.toot.si            | ⛔ | Twitter crossposter|
 | birdsite.wilde.cloud        | ⛔ | Twitter crossposter|
 | birdsitelive.ffvo.dev       | ⛔ | Twitter crossposter|
+| birdsitelive.peanutlasko.com| ⛔ | Twitter crossposter|
 | bridge.birb.space           | ⛔ | Twitter crossposter|
 | brighteon.social            | ⛔ | "free speech zone"² |
 | cawfee.club                 | ⛔ | Discrimination, racism, "free speech zone"² |
@@ -124,6 +165,7 @@ Blocked instances
 | twtr.plus                   | ⛔ | Twitter crossposting bots breaking mentions| 
 | varishangout.net            | ⛔ | Transphobia, aggressive trolling |
 | wiki-tube.de                | ⛔ | Right wing conspiracy videos |
+| wolfgirl.bar                | ⛔ | Discrimination, homophobia, unmoderated trolling |
 | wintermute.fr.to            | ⛔ | Discrimination |
 | yggdrasil.social            | ⛔ | Discrimination |
 
