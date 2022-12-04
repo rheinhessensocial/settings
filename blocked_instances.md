@@ -51,6 +51,7 @@ Blocked instances
 
 | Instance                    | Status¹ | Reason                                 |
 | --------------------------- | -- | ------------------------------------------- |
+| activitypub-troll.cf        | ⛔ | Spam |
 | aethy.com                   | ⛔ | Lolicon |
 | bae.st                      | ⛔ | Discrimination, racism, "free speech zone"² |
 | baraag.net                  | ⛔ | Lolicon |
@@ -82,6 +83,7 @@ Blocked instances
 | bridge.birb.space           | ⛔ | Twitter crossposter|
 | brighteon.social            | ⛔ | "free speech zone"² |
 | cawfee.club                 | ⛔ | Discrimination, racism, "free speech zone"² |
+| childpawn.shop              | ⛔ | Pedophilia |
 | chudbuds.lol                | ⛔ | Discrimination, racism, "free speech zone"² |
 | club.darknight-coffee.eu    | ⛔ | "free speech zone"² |
 | clubcyberia.co              | ⛔ | Homophobia |
@@ -97,11 +99,13 @@ Blocked instances
 | freecumextremist.com        | ⛔ | Discrimination, racism, "free speech zone"² |
 | freespeechextremist.com     | ⛔ | Discrimination, racism, "free speech zone"² |
 | f.haeder.net                | ⛔ | Discrimination |
-| gab.com, gab.ai             | ⛔ | Discrimination, racism, "free speech zone"² |
+| gab.ai                      | ⛔ | Discrimination, racism, "free speech zone"² |
+| gab.com, develop.gab.com    | ⛔ | Discrimination, racism, "free speech zone"² |
 | gameliberty.club            | ⛔ | "free speech zone"² |
 | gegenstimme.tv              | ⛔ | "free speech zone"² |
 | genderheretics.xyz          | ⛔ | Tagline "Now With 41% More Misgendering!" |
 | gitmo.life                  | ⛔ | "free speech zone"² |
+| gleasonator.com             | ⛔ | Transphobia, TERFs |
 | glindr.org                  | ⛔ | Discrimination |
 | glowers.club                | ⛔ | Discrimination, racism, "free speech zone"² |
 | honkwerx.tech               | ⛔ | Racism |
@@ -117,6 +121,7 @@ Blocked instances
 | mastodon.popps.org          | ⛔ | Homophobia |
 | meta-tube.de                | ⛔ | Conspiracy, CoVid19 denier videos https://fediblock.org/blocklist/#meta-tube.de |
 | midnightride.rs             | ⛔ | Discrimination |
+| misskey-forkbomb.cf         | ⛔ | Spam |
 | mstdn.foxfam.club           | ⛔ | Right wing twitter mirror |
 | nicecrew.digital            | ⛔ | Discrimination, racism, "free speech zone"² |
 | ns.auction                  | ⛔ | Racism etc |
@@ -131,13 +136,14 @@ Blocked instances
 | pleroma.kitsunemimi.club    | ⛔ | Discrimination |
 | pleroma.narrativerry.xyz    | ⛔ | Discrimination, racism, "free speech zone"² |
 | pleroma.nobodyhasthe.biz    | ⛔ | Doxxing and discrimination |
-| pl.natehiggers.online       | ⛔ | Racism |
 | pl.info.natehiggers.online  | ⛔ | Racism |
+| pl.natehiggers.online       | ⛔ | Racism |
 | pl.tkammer.de               | ⛔ | Transphobia |
 | poa.st                      | ⛔ | Discrimination |
 | poster.place                | ⛔ | Discrimination, racism, "free speech zone"² |
 | rapemeat.solutions          | ⛔ | Lolicon, and the domain name says enough |
 | rdrama.cc                   | ⛔ | Discrimination, "free speech zone"² |
+| repl.co                     | ⛔ | Spam |
 | ryona.agency                | ⛔ | Alt-right trolls |
 | seal.cafe                   | ⛔ | Discrimination, racism, "free speech zone"² |
 | shitpost.cloud              | ⛔ | "Free speech zone"² |
