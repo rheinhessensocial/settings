@@ -56,6 +56,7 @@ Blocked instances
 | aethy.com                   | Lolicon |
 | bae.st                      | Discrimination, racism, "free speech zone"² |
 | baraag.net                  | Lolicon |
+| banepo.st                   | Homophobia |
 | beefyboys.club              | Discrimination, racism, "free speech zone"² |
 | beefyboys.win               | Discrimination, racism, "free speech zone"² |
 | beta.birdsite.live          | Twitter crossposter |
@@ -128,6 +129,7 @@ Blocked instances
 | jaeger.website              | Discrimination, racism, "free speech zone"² |
 | kenfm.quadplay.tv           | Conspiracy videos |
 | kiwifarms.cc                | Discrimination |
+| lgbtfree.zone               | obvious |
 | liberdon.com                | Conspiracy theories, transphobia, racism |
 | libre.tube                  | Promotion of violence and murder, multiple other violations of our rules |
 | lolicon.rocks               | Lolicon |
@@ -139,6 +141,7 @@ Blocked instances
 | meta-tube.de                | Conspiracy, CoVid19 denier videos https://fediblock.org/blocklist/#meta-tube.de |
 | midnightride.rs             | Discrimination |
 | misskey-forkbomb.cf         | Spam |
+| morale.ch                   | Antisemitism |
 | mstdn.foxfam.club           | Right wing twitter mirror |
 | natehiggers.online          | Racism |
 | newjack.city                | Exclusive to unwanted follow bots |
@@ -150,6 +153,7 @@ Blocked instances
 | ohai.su                     | Offline |
 | pawoo.net                   | Untagged nfsw content, unwanted follow bots, lolicon |
 | paypig.org                  | Racism |
+| pedo.school                 | Obvious |
 | pieville.net                | Racism, antisemitism |
 | pl.serialmay.link           | Racism, transphobia |
 | pl.tkammer.de               | Transphobia |
@@ -171,6 +175,7 @@ Blocked instances
 | shortstackran.ch            | Racism, homophobia, "free speech zone"² |
 | shota.house                 | Lolicon |
 | skippers-bin.com            | Same admin as neckbeard.xyz, same behaviour |
+| sleepy.cafe                 | Racism, harassment |
 | sneak.berlin                | privacy violation |
 | sneed.social                | Discrimination, racism, "free speech zone"² |
 | social.ancreport.com        | Discrimination, racism, "free speech zone"² |
@@ -186,7 +191,9 @@ Blocked instances
 | tube.querdenken-711.de      | Conspiracy videos |
 | tweet.pasture.moe           | Twitter crossposter |
 | tweetbridge.kogasa.de       | Twitter crossposter |
+| tweets.icu                  | Twitter crossposter|
 | twitter.activitypub.actor   | Twitter crossposter |
+| twitter.doesnotexist.club   | Twitter crossposter|
 | twitterbridge.jannis.rocks  | Twitter crossposter |
 | twtr.plus                   | Twitter crossposter | 
 | varishangout.net            | Transphobia, aggressive trolling |
