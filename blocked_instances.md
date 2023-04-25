@@ -146,6 +146,7 @@ Blocked instances
 | natehiggers.online          | Racism |
 | newjack.city                | Exclusive to unwanted follow bots |
 | nicecrew.digital            | Discrimination, racism, "free speech zone"² |
+| nnia.space                  | Pedophilia |
 | noagendasocial.com          | "free speech zone"², harassment |
 | noagendasocial.nl           | "free speech zone"², harassment |
 | noagendatube.com            | "free speech zone"², harassment |
@@ -154,6 +155,7 @@ Blocked instances
 | pawoo.net                   | Untagged nfsw content, unwanted follow bots, lolicon |
 | paypig.org                  | Racism |
 | pedo.school                 | Obvious |
+| pkteerium.xyz               | Discrimination, "free speech zone" |
 | pieville.net                | Racism, antisemitism |
 | pl.serialmay.link           | Racism, transphobia |
 | pl.tkammer.de               | Transphobia |
